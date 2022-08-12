@@ -1,0 +1,64 @@
+{
+    // Используйте IntelliSense, чтобы узнать о возможных атрибутах.
+    // Наведите указатель мыши, чтобы просмотреть описания существующих атрибутов.
+    // Для получения дополнительной информации посетите: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program",
+            "request": "launch",
+            "mainClass": "Lesson_08.Ex001.Program",
+            "projectName": "08_3fbe3a05"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(1)",
+            "request": "launch",
+            "mainClass": "Lesson_08.Ex002.Program",
+            "projectName": "08_3fbe3a05"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(2)",
+            "request": "launch",
+            "mainClass": "Lesson_08.Ex003.Program",
+            "projectName": "08_3fbe3a05"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(3)",
+            "request": "launch",
+            "mainClass": "Lesson_08.Ex004.Program",
+            "projectName": "08_3fbe3a05"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(4)",
+            "request": "launch",
+            "mainClass": "Lesson_08.Ex005.v1.Program",
+            "projectName": "08_3fbe3a05"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(5)",
+            "request": "launch",
+            "mainClass": "Lesson_08.Ex005.v2.Program",
+            "projectName": "08_3fbe3a05"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(6)",
+            "request": "launch",
+            "mainClass": "Lesson_08.Ex006.Program",
+            "projectName": "08_3fbe3a05"
+        }
+    ]
+}
